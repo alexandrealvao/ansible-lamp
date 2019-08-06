@@ -1,0 +1,7 @@
+---
+  # The core version you want to use
+  drupal_core_version: "8.5.x"
+  drupal_core_path: "/var/www/drupal-{{ drupal_core_version }}-dev"
+  domain: "drupal"
+  # Your drupal site name.
+  drupal_site_name: "Drupal Test"
